@@ -1,8 +1,17 @@
-Astrobian is a initiative to develop a Debian based full fledged Operating System to full fill the need of Astronomers and Engineers who are working at astronomical institutes. Astrobian will bundle all the astronomical and professional softwares needed by astronomers which they install or uninstall or more specifically I can say activate or deactivate according to their need.
+Astrobian is a initiative to develop a Debian based full fledged Operating System to full fill the 
+need of Astronomers and Engineers who are working at astronomical institutes. Astrobian will bundle 
+all the astronomical and professional softwares needed by astronomers which they install or uninstall 
+or more specifically I can say activate or deactivate according to their need.
 
-They can choose the softwares they need during the installation process by a customized debian installer or later post-installation they can choose through a easily managable application which can install the software package. Here in this project more emphasis is given on ease of dealing with operating system and ease of installation and uninstallation of software packages.
+They can choose the softwares they need during the installation process by a customized debian installer 
+or later post-installation they can choose through a easily managable application which can install the 
+software package. Here in this project more emphasis is given on ease of dealing with operating system 
+and ease of installation and uninstallation of software packages.
 
-Apart from working on building this distribution, this project also aims to develop a developing a repository which contains astronomical packages exclusively. And also identifying the the astronomical packages which are still not availlable as a debian package and bundle them as debian package so that they can be included in the repository and later in the astrobian distribution.
+Apart from working on building this distribution, this project also aims to develop a developing a 
+repository which contains astronomical packages exclusively. And also identifying the the astronomical 
+packages which are still not availlable as a debian package and bundle them as debian package so that they 
+can be included in the repository and later in the astrobian distribution.
 
 Features:
 ---------
