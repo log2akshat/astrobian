@@ -1,3 +1,5 @@
+Astrobian: 
+----------
 Astrobian is a initiative to develop a Debian based full fledged Operating System to full fill the 
 need of Astronomers and Engineers who are working at astronomical institutes. Astrobian will bundle 
 all the astronomical and professional softwares needed by astronomers which they install or uninstall 
@@ -21,3 +23,4 @@ Features:
 4. Preferable muti-arch supported packages will be given more priority.
 5. Easily managable control panel for astronomical packages through a config file as well as GUI.
 6. Default desktop enviornment will be MATE.
+
